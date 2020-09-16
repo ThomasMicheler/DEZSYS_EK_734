@@ -27,8 +27,8 @@ Das verwendete Namensschema (eg. group.service1 oder vorname.nachname) soll fuer
 Mit Hilfe des LINUX CLI "LDAPSEARCH" sollen 3 Suchanfragen durchgefuehrt und das Ergebnis dokumentiert werden. Hier ein Beispiel dazu: 
 
 `
-ldapsearch -h 192.168.0.8 -p 389  
-  -D "cn=max.mustermann,dc=nodomain,dc=com" -W   
+ldapsearch -h 192.168.0.8 -p 389  <br>
+  -D "cn=max.mustermann,dc=nodomain,dc=com" -W   <br>
   -b "cn=group.service2,dc=nodomain,dc=com" memberUid
 `
 
