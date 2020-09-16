@@ -65,6 +65,7 @@ Bewertung: 8 Punkte
 `
 ## 1.6 Links & Dokumente
 
+*   https://docs.oracle.com/javase/tutorial/jndi/ldap/ldap.html  
 *   https://spring.io/guides/gs/authenticating-ldap  
 *   https://docs.spring.io/spring-ldap/docs/current/reference  
 *   https://www.baeldung.com/spring-data-ldap   
