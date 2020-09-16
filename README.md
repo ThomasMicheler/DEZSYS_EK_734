@@ -47,3 +47,23 @@ Bewertung: 8 Punkte
 - Anlegen von 2 Gruppen und 5 User Accounts (1 Punkte)
 - Dokumentation von 3 LDAPSEARCH Befehlen (2 Punkte)
 - JNDI Implementierung (4 Punkte)
+
+## 1.4 Bewertung  
+
+ *   Gruppengrösse: 1 Person  
+ *   Anforderungen **"überwiegend erfüllt"**
+	 *   Dokumentation der einzelnen Arbeitsschritte im Protokoll 
+	 *   Anlegen von 2 Gruppen und 5 User Accounts
+	 *   Dokumentation von 3 LDAPSEARCH Befehlen
+
+ *   Anforderungen **"zur Gänze erfüllt"**
+	 *   JNDI Implementierung
+
+## 1.5 Fragestellung für Protokoll
+
+ *   ...
+`
+## 1.6 Links & Dokumente
+ *   ...
+
+ 
